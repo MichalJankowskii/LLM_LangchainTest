@@ -23,6 +23,7 @@ conda install panel
 conda install -c bokeh jupyter_bokeh
 conda install -c conda-forge langchain
 conda install -c conda-forge tiktoken
+conda install -c anaconda pandas
 
 
 Need to create config.env file with:
