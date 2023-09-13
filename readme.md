@@ -27,6 +27,7 @@ conda install -c anaconda pandas
 
 pip install docarray
 pip install flask-sqlalchemy --user
+pip intall wikipedia
 
 Need to create config.env file with:
 OPENAI_API_KEY = "sk-xxxxxx"
